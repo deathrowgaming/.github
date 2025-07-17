@@ -45,6 +45,7 @@ If you’re a developer experienced with:
 
 - FiveM scripting (ESX, QB-Core, custom frameworks)
 - MLO creation or mapping
+- Vehicle development (livery and tuning)
 - UI/UX design for GTA V/FiveM
 - Backend tools (databases, APIs, server automation)
 
@@ -53,3 +54,4 @@ Please get in touch via our Discord or GitHub Issues tab.
 ---
 
 **Thanks for checking out Deathrow Gaming. Let’s make something awesome together.**
+![Deathrow Banner](./banner.png)
